@@ -11,5 +11,5 @@
 
 ## 参考資料
 
-[Numpy](https://numpy.org/doc/stable/user/tutorials_index.html)
-[Machine Learning](https://mlcompendium.gitbook.io/machine-and-deep-learning-compendium/)
+1. [Numpy](https://numpy.org/doc/stable/user/tutorials_index.html)
+2. [Machine Learning](https://mlcompendium.gitbook.io/machine-and-deep-learning-compendium/)
